@@ -1,0 +1,1 @@
+# Atom-SassAutocompile-MultiProjectPatch
